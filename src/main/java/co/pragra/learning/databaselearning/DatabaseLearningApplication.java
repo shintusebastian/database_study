@@ -43,6 +43,7 @@ public class DatabaseLearningApplication {
 		bean.createCourse(course1);
 		bean.createCourse(course2);
 		System.out.println(bean.getAllCourse());
+		System.out.println("my changes");
 
 
 	}
